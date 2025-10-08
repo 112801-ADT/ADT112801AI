@@ -2,4 +2,5 @@ AI 人工智慧課程
 
 NTCU AI course
 
-Professor Chih-Hung Wu in NTCU DCT
+ADT112801 張瑋恩
+
